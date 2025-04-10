@@ -9,7 +9,7 @@ subtitle:  	Seleni successfully defends her dissertation!
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-04-09-1.jpg" alt="Coconut" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Dr. Oremus introducing Seleni prior to her public talk (Credit: A. Birkenbach)</figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">Dr. Oremus introducing Seleni at her defense (Credit: A. Birkenbach)</figcaption>
     </figure>
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-04-09-2.jpg" alt="Beach" width="100%">
