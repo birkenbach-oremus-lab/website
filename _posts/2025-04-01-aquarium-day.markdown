@@ -22,11 +22,11 @@ The Birkenbach-Oremus lab piled into a car and drove down to Baltimore for the d
     </figure>
 </div>
 
-But it was also a way to take care of ourselves in uncertain times. We sympathized with a sloth named Piper who fell asleep in the middle of eating. We pet jellyfish. We drank apple juice and ate chicken fingers. We gazed into the blue-green, gold-rimmed eyes of a black grouper. We marveled at the size of sharks. 
+But it was also a way to take care of ourselves in uncertain times. We sympathized with a sloth named Piper who fell asleep in the middle of eating. We pet jellyfish. We drank apple juice and ate chicken fingers. We gazed into the blue-green, gold-rimmed eyes of a black grouper. We marveled at the size of sharks and the miniature might of the mantis shrimp. 
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-04-01-3.jpg" alt="lab in the splash zone" width="100%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-04-01-3.JPG" alt="lab in the splash zone" width="100%">
         <figcaption style="text-align: center; font-size: 12px;">Lab members in the splash zone at the dolphin training session (Credit: A. Birkenbach) </figcaption>
     </figure>
 </div>
