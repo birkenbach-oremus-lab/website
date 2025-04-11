@@ -9,7 +9,7 @@ subtitle:  	Lab members get behind-the-scenes tour
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-04-01-1.jpg" alt="fishy collage" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Lab friends meet ocean friends (Credit: A. Birkenbach) </figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">Lab friends making ocean friends (Credit: A. Birkenbach) </figcaption>
     </figure>
 </div>
 
