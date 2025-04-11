@@ -22,7 +22,7 @@ The Birkenbach-Oremus lab piled into a car and drove down to Baltimore for the d
     </figure>
 </div>
 
-But it was also a way to take care of ourselves in uncertain times. We sympathized with a sloth named Piper who fell asleep in the middle of eating. We pet jellyfish. We drank apple juice and ate chicken fingers. We gazed into the blue-green, gold-rimmed eyes of a black grouper. We marveled at the size of sharks and the miniature might of the mantis shrimp. 
+But it was also a way to care for ourselves in uncertain times. We sympathized with a sloth named Piper who fell asleep in the middle of eating. We pet jellyfish. We drank apple juice and ate chicken fingers. We gazed into the blue-green, gold-rimmed eyes of a black grouper. We marveled at the size of sharks and the miniature might of the mantis shrimp. 
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
