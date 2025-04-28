@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Are there consequences for catch overages?
+title:      Consequences for catch overages?
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
-subtitle:  	MMP student Erinn Bell presents research at DENIN symposium
+subtitle:  	Student Erinn Bell presents research at DENIN symposium
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
