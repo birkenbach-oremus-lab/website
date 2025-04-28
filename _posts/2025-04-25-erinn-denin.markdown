@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Are there consequences for fishing overages?
+title:      Are there consequences for catch overages?
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	MMP student Erinn Bell presents research at DENIN symposium
