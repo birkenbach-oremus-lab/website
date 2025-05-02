@@ -17,9 +17,10 @@ On Friday, lab member **Erinn Bell** presented findings at the [10th Annual Dela
 Specifically, the research investigates whether councils consistently adjust catch limits after overages, as mandated by the Magnuson-Stevens Fishery Conservation and Management Act (MSA), which governs U.S. fisheries. Analyzing data from 2010-2023, the study's authors find that many stocks exceed their catch limits without subsequent corrective action despite little biological justification--highlighting how uneven application of accountability measures may undermine efforts to rebuild overfished stocks and achieve goals set out in the MSA. 
 
 EXCITING UPDATE (5/2/2025):
+Erinn won first place for her poster presentation at the event!
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 1px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-04-25-2.png" alt="denin2" width="75%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-04-25-2.png" alt="denin2" width="85%">
         <figcaption style="text-align: center; font-size: 12px;">Yay, Erinn (and fellow marine policy graduate student Taky)!</figcaption>
     </figure>
 </div>
