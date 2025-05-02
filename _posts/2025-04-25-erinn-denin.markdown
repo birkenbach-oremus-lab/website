@@ -19,7 +19,7 @@ Specifically, the research investigates whether councils consistently adjust cat
 EXCITING UPDATE (5/2/2025):
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 1px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-04-25-2.png" alt="denin2" width="100%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-04-25-2.png" alt="denin2" width="60%">
         <figcaption style="text-align: center; font-size: 12px;">Yay, Erinn (and fellow marine policy graduate student Taky)! (Credit: S. Cruz)</figcaption>
     </figure>
 </div>
