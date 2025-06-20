@@ -16,7 +16,7 @@
   bio: Dr. Oremus is an assistant professor in the School of Marine Science and Policy (SMSP), Department of Economics, and Biden School of Public Policy & Administration at the University of Delaware. Her research focuses on fishery management and policy, including international agreements, marine transboundary issues, and the impact of climate change in marine environments. She serves as advisor to the SMSP-Newark Graduate Student Association (GSA) and was awarded the College of Earth, Ocean, and Environment’s Outstanding Faculty Mentor award in 2023.
   visible: true
 
-  - name: Erinn Bell
+- name: Erinn Bell
   role: Masters student in Marine Policy
   img: http://birkenbach-oremus-lab.github.io/website/img/erinnmemberphoto.jpg
   bio: Coming from a background in the biological sciences, Erinn gained research experience in mammal behavioral ecology through her undergradate studies and the Ronald E. McNair Scholars Program, as well as the NSF-Funded REU Program at Mystic Aquarium/UConn-Avery Point. Her work as a Graduate Scholars Award recipient at UD will combine her passions for marine biology, conservation, and environmental law.
@@ -27,6 +27,13 @@
   img: https://cdn.superlawyers.com/image/upload/q_auto,f_auto,w_200/v20240130/p/attorney_by_uuid/1b472b02-d249-4c39-a40b-63f5dc1c134f/wicker-kent-pxzzg2.png
   bio: Kent has been a courtroom attorney for his entire career, prosecuting and defending high-profile commercial and white collar criminal cases while teaching courses and winning numerous awards along the way (including being named among the Best Lawyers in America). He is a graduate of Duke University and Harvard Law School and now brings his passion and legal expertise to his studies of marine policy at UD.
   url: https://www.wickerbrammell.com/kent
+  visible: true
+
+- name: Whitney Morgan
+  role: PhD student in Environmental Economics
+  img: 
+  bio: Coming soon!
+  url: 
   visible: true
 
 - name: Seleni Cruz
