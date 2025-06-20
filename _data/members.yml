@@ -30,11 +30,11 @@
   visible: true
 
 - name: Seleni Cruz
-  role: PhD candidate in Environmental Economics
+  role: PhD graduate in Environmental Economics
   img: https://pbs.twimg.com/media/Fx8rWv2XoAAgkvf?format=jpg&name=4096x4096
   gscholar: https://plus.google.com/+AhmetCecen-GPlus
   bio: Seleni’s research focuses on the intersection among natural resource and development economics, climate change, and fisheries management. She leverages econometric techniques and bioeconomic modeling to explore human-ocean interactions in the face of climate change. Seleni is a 2024 WWF Fellow and recipient of UD’s Doctoral Fellowship for Excellence.
-  visible: true
+  visible: false
    
 - name: Ben Hurley
   role: 2024 MMP graduate, affiliated researcher
