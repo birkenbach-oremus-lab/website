@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      New paper in Science!
+title:      New Science paper in the bag!
 author:     Birkenbach-Oremus Lab
-tags: 		  posts articles
-subtitle:  	In the Bag? The Role and Limits of Plastic Bag Policies
+tags: 		posts articles
+subtitle:  	Dr. Oremus explores the role and limits of plastic bag policies
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
