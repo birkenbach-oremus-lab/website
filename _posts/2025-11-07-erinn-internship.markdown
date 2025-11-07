@@ -9,7 +9,7 @@ subtitle:  	Student Erinn Bell reflects on a successful internship
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 1px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-11-07-1.jpeg" alt="COP30" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Erinn Bell facilitated a Youth-Led Interview with Marinez Schrerer, the Special Envoy for the Ocean for COP30</figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">Erinn Bell facilitated a Youth-Led Interview Series with Marinez Schrerer, the Special Envoy for the Ocean for COP30</figcaption>
     </figure>
 </div>
 
@@ -30,6 +30,6 @@ Over the past few months, Master of Marine Policy student **Erinn Bell** has bee
     </figure>
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-11-07-4.jpeg" alt="PrepCommII" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Erinn Bell providing administrative support during the GOF Side event at Prep Comm II</figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">Erinn Bell providing administrative support during the GOF side event at Prep Comm II</figcaption>
     </figure>
 </div>
