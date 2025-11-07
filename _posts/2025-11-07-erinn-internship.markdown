@@ -18,7 +18,7 @@ Over the past few months, Master of Marine Policy student **Erinn Bell** has bee
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 1px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-11-07-2.png" alt="COP30-2" width="90%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-11-07-2.png" alt="COP30-2" width="100%">
         <figcaption style="text-align: center; font-size: 12px;">Erinn Bell was one of the speakers for the COP30 Virtual Ocean Pavilion's Preview Event</figcaption>
     </figure>
 </div>
