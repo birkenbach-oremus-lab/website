@@ -10,6 +10,6 @@ Today we congratulate Master of Public Policy student Erinn Bell on her successf
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 1px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-12-1.jpeg" alt="erinndefense1" width="100%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-10-1.jpeg" alt="erinndefense1" width="100%">
     </figure>
 </div>
