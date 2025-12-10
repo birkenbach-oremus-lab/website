@@ -10,6 +10,6 @@ Today we congratulate Master of Marine Policy student Erinn Bell on her successf
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 1px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-10-1.jpeg" alt="erinndefense1" width="60%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-10-1.jpg" alt="erinndefense1" width="60%">
     </figure>
 </div>
