@@ -17,33 +17,3 @@ My fellowship consists of supporting the small, unbridged (new, seceded from Cum
 3. One of my favorite things about the MMP program was its encouragement to personalize the program to your career interests. One of the elective classes I took was in the School of Public Policy - Planning Sustainable Communities and Regions. It was in this class that I learned all about the inner workings of municipal planning, from a committee or board meeting to Comprehensive Planning. I am able to understand what it means when someone says that Maine is a home rule state, how to center equity and justice within comprehensive planning processes, and the various resources available to small municipalities looking to engage in the process.
 
 I look forward to seeing how I can continue referring to my notes from classes as I wade through my new life on this little rock. In the meantime, please enjoy some photos from my fellowship thus far! 
-
-
-<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-    <figure style="margin: 0 2px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-11-3.jpg" alt="intro" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Community meetings regarding energy resilience and energy transitions</figcaption>
-    </figure>
-    <figure style="margin: 0 2px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-11-4.jpg" alt="rewards" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Me presenting about coastal access at the Rec Center</figcaption>
-    </figure>
-</div>
-
-<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-    <figure style="margin: 0 2px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-11-5.jpg" alt="intro" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Co-presenting to the Chebeague community about community-led efforts in the Casco Bay to promote shoreline erosion management</figcaption>
-    </figure>
-</div>
-
-<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-    <figure style="margin: 0 2px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-11-1.jpg" alt="intro" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Idyllic island scenes for good measure</figcaption>
-    </figure>
-    <figure style="margin: 0 2px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-11-1.jpg" alt="rewards" width="50%">
-        <figcaption style="text-align: center; font-size: 12px;"></figcaption>
-    </figure>
-</div>
