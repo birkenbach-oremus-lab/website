@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Guest post: Island Living & Learning
+title:      Island Living & Learning
 author:     Birkenbach-Oremus Lab
 tags: 		posts
 subtitle:  	Lorren Ruscetta reflects on life post-MMP
@@ -8,7 +8,15 @@ subtitle:  	Lorren Ruscetta reflects on life post-MMP
 <!-- Start Writing Below in Markdown -->
 *By: **Lorren Ruscetta**, Master of Marine Policy, 2025*
 
+In May 2025, in the midst of sending out my CV to jobs that were promptly disappearing as a result of a loss in funding, I was preparing to defend my thesis and graduate with a Master of Marine Policy (MMP). The renewable energy landscape in the country was growing increasingly bleak, particularly in offshore wind--what I had been researching for the last two years, with a focus on community-led decision-making processes in energy planning. When I saw that Island Institute was hiring for a 2-year fellowship that boasted the opportunity to live and work on an island in Maine focused on coastal resilience, I knew it was a perfect opportunity to utilize the things I loved most about my graduate research assistant experience in a region I've always loved. What I didn't know is just how much I'd be living and executing the very lessons I'd learned throughout my MMP program. 
 
+My fellowship consists of supporting the small, unbridged (new, seceded from Cumberland in 2007!) town of Chebeague Island in the Casco Bay in a myriad of climate and community planning projects. Each fellowship is designed to allow capacity building in municipalities that have applied to Island Institute after identifying a need in their community. Specifically, I am working in the Town office to support them in developing a coastal access inventory, identifying municipal planning changes that promote shoreline resilience, and finally updating the Town's Comprehensive Plan. Below is a non-exhaustive list of ways in which I have returned to what I learned at UD to support me in the short three months that I've been working:
+
+1. During a community presentation regarding coastal access at the Recreation Center on the island, I talked extensively about why coastal access matters and where it comes from, namely, the public trust doctrine. Everything I know about the public trust doctrine began in my Coastal Zone Law class. Similarly, I am able to understand and communicate the specifics of regulatory statutes such as the Natural Resources Protection Act that govern land use decisions within the Town effectively as a result of the same class!
+2. Despite my initial resistance to economics, it turns out that it's important in the real world. Go figure. I have returned back to so much of what I learned in both Natural Resource Economics and Decision Tools for Policy Analysis classes - including supporting the town in understanding the actual costs and benefits of massive infrastructure projects related to climate adaptation on our small island. Being able to confidently walk through each policy and proposal option was only possible because I was able to communicate net present value realities along with true costs and benefits - a feat I really couldn’t imagine possible before those classes!
+3. One of my favorite things about the MMP program was its encouragement to personalize the program to your career interests. One of the elective classes I took was in the School of Public Policy - Planning Sustainable Communities and Regions. It was in this class that I learned all about the inner workings of municipal planning, from a committee or board meeting to Comprehensive Planning. I am able to understand what it means when someone says that Maine is a home rule state, how to center equity and justice within comprehensive planning processes, and the various resources available to small municipalities looking to engage in the process.
+
+I look forward to seeing how I can continue referring to my notes from classes as I wade through my new life on this little rock. In the meantime, please enjoy some photos from my fellowship thus far! 
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
