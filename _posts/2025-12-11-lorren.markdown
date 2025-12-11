@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Guest post: Island Living & Learning
+title:      Guest post: Island Living and Learning
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	Lorren Ruscetta reflects on life post-MMP
