@@ -32,7 +32,7 @@ I look forward to seeing how I can continue referring to my notes from classes a
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-11-3.jpg" alt="intro" width="100%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2025-12-11-5.jpg" alt="intro" width="100%">
         <figcaption style="text-align: center; font-size: 12px;">Co-presenting to the Chebeague community about community-led efforts in the Casco Bay to promote shoreline erosion management</figcaption>
     </figure>
 </div>
