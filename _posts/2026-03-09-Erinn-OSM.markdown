@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Pure dead brilliant (i.e., absolutely amazing!)
+title:      Pure dead brilliant (absolutely amazing!)
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:   Erinn Bell writes about her experience at OSM 2026
@@ -41,4 +41,4 @@ subtitle:   Erinn Bell writes about her experience at OSM 2026
     </figure>
 </div>
 
-Surrounded by so much history, beautiful architecture, and amazing ocean enthusiasts, my time in Scotland was nothing short of "Pure Dead Brilliant." My experience at my first international conference was truly one to remember. From engaging in meaningful conversations about different research topics and networking with people from around the world, to trying new foods and exploring the history of another country, Scotland was a 10/10! 
+Surrounded by so much history, beautiful architecture, and amazing ocean enthusiasts, my time in Scotland was nothing short of "pure dead brilliant." My experience at my first international conference was truly one to remember. From engaging in meaningful conversations about different research topics and networking with people from around the world, to trying new foods and exploring the history of another country, Scotland was a 10/10! 
