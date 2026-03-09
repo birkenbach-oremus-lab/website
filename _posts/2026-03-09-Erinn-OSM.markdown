@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "Pure dead brilliant" (i.e., absolutely amazing!)
+author:     Birkenbach-Oremus Lab
+tags: 		  posts
+subtitle:   Erinn Bell writes about her experience at OSM 2026
+---
+<!-- Start Writing Below in Markdown -->
+<img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-03-09-1.jpg" alt="Erinn Bell at OSM in Glasgow" width="100%">
+
+*By: **Erinn Bell**, Master of Marine Policy student*
+
+"Pure dead brilliant" = the best Scottish phrase to explain my trip to Scotland this February. For the last two years, I have been dreaming and preparing for this conference, the 2026 Ocean Sciences Meeting (OSM) held in Glasgow, Scotland, and it finally came true. I presented my current research on marine mammal strandings and policy implementation at my first international conference! Each day held amazing memories, both at the conference, and while exploring the beautiful country.
+
+**Monday**: During my first full day, I attended the conference, where I listened to a few poster presentations and talks. I also walked around Glasgow, exploring the city and my favorite part...seeing the highland cattle! These beautiful animals were on my "To-See Scotland List" and were checked off within 24 hours of landing! I also walked around the Burrell Collection, an amazing art museum, and the gardens, all on the same land as the cattle. 
+
+<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
+    <figure style="margin: 0 2px;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-03-09-2.png" alt="Glasgow collage" width="100%">
+        <figcaption style="text-align: center; font-size: 12px;">Clockwise from upper left: Highland cow, exploring Glasgow, Burrell Collection, Pollok Country Park Gardens, and bagpiper (Credit: E. Bell)</figcaption>
+    </figure>
+</div>
+
+**Tuesday**: The most important day: presentation day. I presented my current graduate research at the OSM poster session. So many people engaged with my poster and asked really good and interesting questions, mostly relating to the current U.S. politics and marine conservation. My favorite part of presenting is getting the chance to interact with fellow experts across disciplines and receive feedback on my work, hear ideas on new directions and avenues, and just converse about my current research. Thank you to all who came to listen and engage with my presentation! I also had the opportunity to listen to a few other talks throughout the day, specifically on science-policy careers, behavioral ecology, and spatial modeling.
+
+**Wednesday and Thursday**: Wednesday and Thursday were spent exploring the University of Glasgow's campus, the on-campus Zoological Museum and Hunterian Museum, and the Kelvingrove Art Gallery and Museum. Back at the conference, I listened to presentations by colleagues and attended a workshop on publishing papers! I also got to meet up with some friends, enjoy dinner, and go to karaoke.
+
+<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
+    <figure style="margin: 0 2px;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-03-09-3.png" alt="Glasgow" width="100%">
+        <figcaption style="text-align: center; font-size: 12px;">University of Glasgow, Kelingrove Gallery, and Zoological Museum (Credit: E. Bell)</figcaption>
+    </figure>
+</div>
+
+**Friday**: The last day! Friday was the last day of the conference and I attended a few talks and then went to the city of Edinburgh. Another day of walking and exploring--I visited a bookstore, the University of Edinburgh, the Edinburgh Castle, the Palace of Holyroodhouse, and Victoria Street. Now, of course, as a water lover, I made sure to stop by the harbor and spend some time at the lighthouse overlooking the Firth of Forth, an estuary that leads into the North Sea. 
+
+<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
+    <figure style="margin: 0 2px;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-03-09-5.jpg" alt="Edinburgh" width="100%">
+        <figcaption style="text-align: center; font-size: 12px;">Erinn in Edinburgh! University of Edinburgh and Edinburgh Castle (Credit: E. Bell)</figcaption>
+    </figure>
+</div>
+
+Surrounded by so much history, beautiful architecture, and amazing ocean enthusiasts, my time in Scotland was nothing short of "Pure Dead Brilliant." My experience at my first international conference was truly one to remember. From engaging in meaningful conversations about different research topics and networking with people from around the world, to trying new foods and exploring the history of another country, Scotland was a 10/10! 
