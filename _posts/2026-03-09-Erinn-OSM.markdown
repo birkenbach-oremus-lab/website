@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Pure dead brilliant" (i.e., absolutely amazing!)
+title:      Pure dead brilliant (i.e., absolutely amazing!)
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:   Erinn Bell writes about her experience at OSM 2026
