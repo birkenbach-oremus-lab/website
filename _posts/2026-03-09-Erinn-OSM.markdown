@@ -25,7 +25,7 @@ subtitle:   Erinn Bell writes about her experience at OSM 2026
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-03-09-4.jpg" alt="Glasgow collage" width="100%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-03-09-4.jpg" alt="Poster presentation" width="100%">
         <figcaption style="text-align: center; font-size: 12px;">Erinn presenting her poster to OSM participants</figcaption>
     </figure>
 </div>
