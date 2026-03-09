@@ -38,7 +38,7 @@ subtitle:   Erinn Bell writes about her experience at OSM 2026
     </figure>
 </div>
 
-**Friday**: The last day! Friday was the last day of the conference and I attended a few talks and then went to the city of Edinburgh. Another day of walking and exploring--I visited a bookstore, the University of Edinburgh, the Edinburgh Castle, the Palace of Holyroodhouse, and Victoria Street. Now, of course, as a water lover, I made sure to stop by the harbor and spend some time at the lighthouse overlooking the Firth of Forth, an estuary that leads into the North Sea. 
+**Friday**: The last day! Friday was the last day of the conference, and I attended a few talks and then went to the city of Edinburgh. Another day of walking and exploring--I visited a bookstore, the University of Edinburgh, the Edinburgh Castle, the Palace of Holyroodhouse, and Victoria Street. Now, of course, as a water lover, I made sure to stop by the harbor and spend some time at the lighthouse overlooking the Firth of Forth, an estuary that leads into the North Sea. 
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
