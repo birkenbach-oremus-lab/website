@@ -17,7 +17,7 @@ subtitle:   Erinn Bell writes about her experience at OSM 2026
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-03-09-2.jpg" alt="Glasgow collage" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Clockwise from upper left: Highland cow, exploring Glasgow, Burrell Collection, Pollok Country Park Gardens, and bagpiper (Credit: E. Bell)</figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">Clockwise from upper left: Highland cow, exploring Glasgow, Burrell Collection, Pollok Country Park Gardens, and bagpiper (E. Bell)</figcaption>
     </figure>
 </div>
 
@@ -28,7 +28,7 @@ subtitle:   Erinn Bell writes about her experience at OSM 2026
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-03-09-3.jpg" alt="Glasgow" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">University of Glasgow, Kelingrove Gallery, and Zoological Museum (Credit: E. Bell)</figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">University of Glasgow, Kelingrove Gallery, and Zoological Museum (E. Bell)</figcaption>
     </figure>
 </div>
 
@@ -37,7 +37,7 @@ subtitle:   Erinn Bell writes about her experience at OSM 2026
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-03-09-5.jpg" alt="Edinburgh" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Erinn in Edinburgh! University of Edinburgh and Edinburgh Castle (Credit: E. Bell)</figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">Erinn in Edinburgh! University of Edinburgh and Edinburgh Castle (E. Bell)</figcaption>
     </figure>
 </div>
 
