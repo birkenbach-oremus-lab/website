@@ -7,7 +7,6 @@ subtitle:   Erinn Bell writes about her experience at OSM 2026
 ---
 <!-- Start Writing Below in Markdown -->
 <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-03-09-1.jpg" alt="Erinn Bell at OSM in Glasgow" width="100%">
-
 *By: **Erinn Bell**, Master of Marine Policy student*
 
 "Pure dead brilliant" = the best Scottish phrase to explain my trip to Scotland this February. For the last two years, I have been dreaming and preparing for this conference, the 2026 Ocean Sciences Meeting (OSM) held in Glasgow, Scotland, and it finally came true. I presented my current research on marine mammal strandings and policy implementation at my first international conference! Each day held amazing memories, both at the conference, and while exploring the beautiful country.
