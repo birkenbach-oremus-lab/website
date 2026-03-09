@@ -34,7 +34,7 @@ subtitle:   Erinn Bell writes about her experience at OSM 2026
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-03-09-3.jpg" alt="Glasgow" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">University of Glasgow, Kelingrove Gallery, and Zoological Museum (E. Bell)</figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">University of Glasgow, Kelvingrove Gallery, and Zoological Museum (E. Bell)</figcaption>
     </figure>
 </div>
 
