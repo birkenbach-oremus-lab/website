@@ -23,6 +23,13 @@ subtitle:   Erinn Bell writes about her experience at OSM 2026
 
 **Tuesday**: The most important day: presentation day. I presented my current graduate research at the OSM poster session. So many people engaged with my poster and asked really good and interesting questions, mostly relating to the current U.S. politics and marine conservation. My favorite part of presenting is getting the chance to interact with fellow experts across disciplines and receive feedback on my work, hear ideas on new directions and avenues, and just converse about my current research. Thank you to all who came to listen and engage with my presentation! I also had the opportunity to listen to a few other talks throughout the day, specifically on science-policy careers, behavioral ecology, and spatial modeling.
 
+<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
+    <figure style="margin: 0 2px;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-03-09-4.jpg" alt="Glasgow collage" width="100%">
+        <figcaption style="text-align: center; font-size: 12px;">Erinn presenting her poster to OSM participants</figcaption>
+    </figure>
+</div>
+
 **Wednesday and Thursday**: Wednesday and Thursday were spent exploring the University of Glasgow's campus, the on-campus Zoological Museum and Hunterian Museum, and the Kelvingrove Art Gallery and Museum. Back at the conference, I listened to presentations by colleagues and attended a workshop on publishing papers! I also got to meet up with some friends, enjoy dinner, and go to karaoke.
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
