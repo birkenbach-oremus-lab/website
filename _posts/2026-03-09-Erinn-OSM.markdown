@@ -4,7 +4,6 @@ title:      Pure dead brilliant (absolutely amazing!)
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:   Erinn Bell writes about her experience at OSM 2026
-header-img: img/posts/2026-03-09-3.jpg
 ---
 <!-- Start Writing Below in Markdown -->
 <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-03-09-1.jpg" alt="Erinn Bell at OSM in Glasgow" width="100%">
