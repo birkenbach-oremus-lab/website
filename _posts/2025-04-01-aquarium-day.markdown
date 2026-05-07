@@ -13,7 +13,7 @@ subtitle:  	Lab members get behind-the-scenes tour
     </figure>
 </div>
 
-The Birkenbach-Oremus lab piled into a car and drove down to Baltimore for the day to get a behind-the-scenes tour of the National Aquarium. We tagged along with Dr. Ed Hale's Aquaculture class and learned the ropes (and pipes) of how the aquarium's staff keeps its marine critters alive. We learned about the food prepared for the animals, how sharks arrive at the aquarium, and the challenges of creating a delicate, oxegenating froth that mimics the natural seashore. 
+The Birkenbach-Oremus Lab piled into a car and drove down to Baltimore for the day to get a behind-the-scenes tour of the National Aquarium. We tagged along with Dr. Ed Hale's Aquaculture class and learned the ropes (and pipes) of how the aquarium's staff keeps its marine critters alive. We learned about the food prepared for the animals, how sharks arrive at the aquarium, and the challenges of creating a delicate, oxegenating froth that mimics the natural seashore. 
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
