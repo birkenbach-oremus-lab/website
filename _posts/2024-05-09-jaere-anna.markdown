@@ -4,7 +4,7 @@ title:      New paper published in JAERE
 author:     Birkenbach-Oremus Lab
 tags: 		  articles
 subtitle:  	MISTIC model predicts daily fishing choices
-share-img:  img/posts/2024-05-09-1.jpg
+share-img:  img/posts/2024-05-09-1.png
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: left;">
