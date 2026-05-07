@@ -4,6 +4,7 @@ title:      Student wins award!
 author:     Birkenbach-Oremus Lab
 tags: 		    posts
 subtitle:  	NAAFE Best Student Presentation awarded to Seleni Cruz
+share-img: img/posts/2023-05-26-2.jpg
 ---
 <!-- Start Writing Below in Markdown -->
 Congratulations to **Seleni Cruz**, who won the Best Student Presentation award at the [2023 Forum of the North American Association of Fisheries Economists](https://naafe2023.whoi.edu/) in Woods Hole, MA! Seleni faced tough competition from students across the continent and received valuable feedback on her Sea Grant-funded research on the Delaware Bay blue crab fishery. We're so proud of her achievement!
