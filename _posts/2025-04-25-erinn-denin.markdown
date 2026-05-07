@@ -4,6 +4,7 @@ title:      Consequences for catch overages?
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	Student Erinn Bell presents research at DENIN symposium
+share-img:  img/posts/2025-04-25-1.png
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
