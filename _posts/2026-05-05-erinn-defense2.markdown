@@ -24,6 +24,6 @@ subtitle:  	Erinn Bell successfully defends her AP!
     </figure>
 </div>
 
-**Drs. Birkenbach and Oremus** are excited to congratulate Masters of Marine Policy (MMP) student **Erinn Bell** on her successful Analytical Paper defense! Erinn gave a great presentation of her work on marine mammal strandings along the U.S. Northeast coast to a conference room (and Zoom) full of friends, colleagues, and family. More celebrations to follow at graduation, then Erinn will focus on preparing her paper for journal submission. 
+**Drs. Birkenbach and Oremus** are excited to congratulate Masters of Marine Policy (MMP) student **Erinn Bell** on her successful Analytical Paper defense! Erinn gave a stellar presentation of her work on marine mammal strandings along the U.S. Northeast coast to a conference room (and Zoom) full of friends, colleagues, and family. More celebrations to follow at graduation, then Erinn will focus on preparing her paper for journal submission. 
 
 More happy news: Erinn has accepted a position working as an Education Strategic Planning Specialist in collaboration with [NOAA's Office of Education](https://www.noaa.gov/office-education). Stay tuned!
