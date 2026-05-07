@@ -4,6 +4,7 @@ title:      Congratulations, Erinn!!!
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	Erinn Bell successfully defends her AP!
+image:     http://birkenbach-oremus-lab.github.io/website/img/posts/2026-05-05-1.jpg
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
