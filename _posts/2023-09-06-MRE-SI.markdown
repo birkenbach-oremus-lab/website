@@ -4,10 +4,9 @@ title:      Guest-edited MRE special issue published
 author:     Birkenbach-Oremus Lab
 tags: 		  posts articles
 subtitle:  	Coastal communities at a crossroads
+share-img:  img/posts/2023-09-06.jpg
 ---
 <!-- Start Writing Below in Markdown -->
 **Dr. Birkenbach**, along with two colleagues at the University of Stavanger, served as guest editor on a special issue of _Marine Resource Economics_ called "The Economics of Coastal Communities." The issue received over 40 submissions, 4 of which made the final cut for inclusion, and is intended to highlight lesser-known or understudied connections between marine resources and the communities that rely on them. The selected articles and [accompanying introduction by the editors](https://doi.org/10.1086/726262) also reflect calls from resource managers, government agences, and other entities around the globe for greater attention to these issues among researchers across disciplines. 
 
 The full issue can be accessed [here](https://journals.uchicago.edu/toc/mre/2023/38/4).
-
-![Bergen, Norway](http://birkenbach-oremus-lab.github.io/website/img/posts/2023-09-06.jpg)
