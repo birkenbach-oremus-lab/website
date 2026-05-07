@@ -4,6 +4,7 @@ title:      Speaking for the Seas
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	Student Erinn Bell reflects on a successful internship
+share-img:  img/posts/2025-11-07-4.jpeg
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
