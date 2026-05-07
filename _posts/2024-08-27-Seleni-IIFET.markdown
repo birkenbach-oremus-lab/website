@@ -4,7 +4,7 @@ title:      Fish, Friends, & Food
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:   Seleni Cruz writes about her experience at IIFET 2024
-share-img: img/posts/2024-08-27-4.png
+share-img: img/posts/2024-08-27-1.JPEG
 ---
 <!-- Start Writing Below in Markdown -->
 <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-27-1.JPEG" alt="Pre-conference workshop" width="100%">
