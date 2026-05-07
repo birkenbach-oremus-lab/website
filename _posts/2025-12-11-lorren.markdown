@@ -4,6 +4,7 @@ title:      Island Living & Learning
 author:     Birkenbach-Oremus Lab
 tags: 		posts
 subtitle:  	Lorren Ruscetta reflects on life post-MMP
+share-img:  img/posts/2025-12-11-5.png
 ---
 <!-- Start Writing Below in Markdown -->
 *By: **Lorren Ruscetta**, Master of Marine Policy (2025) and Chebeague Island Fellow*
