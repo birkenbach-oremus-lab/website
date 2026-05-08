@@ -4,6 +4,7 @@ title:      Journey of 1,000 Versions
 author:     Birkenbach-Oremus Lab
 tags: 		  posts media articles
 subtitle:  	Dr. Birkenbach + coauthors receive Outstanding Article award
+share-img:  img/posts/2024-09-23-1.png
 ---
 <!-- Start Writing Below in Markdown -->
 <!-- ![Description](http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-14-1.png)-->
