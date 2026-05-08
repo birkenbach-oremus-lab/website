@@ -19,6 +19,7 @@ header-img: "img/research-bg.JPG"
 * Small-scale fisheries
 * Fishery monitoring/enforcement
 * Resource valuation
+* Marine mammal strandings
 * ...and more
 
 ### Support:
