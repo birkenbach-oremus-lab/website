@@ -4,6 +4,7 @@ title:      Congrats to DR. CRUZ!!!
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	Seleni successfully defends her dissertation!
+share-img:  img/posts/2025-04-09-1.jpg
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
