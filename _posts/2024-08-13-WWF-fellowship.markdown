@@ -4,6 +4,7 @@ title:      Student receives WWF fellowship!
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	Seleni Cruz awarded funding for food systems research
+share-img:  img/posts/2024-07-17.jpeg
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
