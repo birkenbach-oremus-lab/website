@@ -4,6 +4,7 @@ title:      Following the fish
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	ESM students join Dr. Birkenbach in Woods Hole
+share-img:  img/posts/2025-04-07-1.jpg
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
