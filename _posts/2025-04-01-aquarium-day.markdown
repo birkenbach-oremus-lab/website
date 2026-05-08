@@ -4,6 +4,7 @@ title:      National Aquarium field trip
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	Lab members get behind-the-scenes tour
+share-img:  img/posts/2025-04-01-3.JPG
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
