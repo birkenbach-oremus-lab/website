@@ -13,7 +13,7 @@ We ask that prospective graduate students first complete this [<span style="colo
 * [<span style="color:#337ab7">Environmental Economics (EE)</span>](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/environmental-economics/)
 * [<span style="color:#337ab7">Marine Policy (MP)</span>](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/marine-policy-degrees/#:~:text=Students%20in%20the%20Marine%20Policy,and%20coupled%20natural%2Dhuman%20environments.)
 * [<span style="color:#337ab7">Environmental Science and Management (ESM)</span>](https://www.udel.edu/academics/colleges/ceoe/prospective-students/graduate/environmental-science-and-management/)
-* [<span style="color:#337ab7">Economics</span>](https://lerner.udel.edu/)
+* [<span style="color:#337ab7">Economics</span>](https://lerner.udel.edu/programs/graduate-programs/)
 
 
 ### Applicant information:
