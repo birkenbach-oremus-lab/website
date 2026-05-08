@@ -7,8 +7,8 @@ header-img: "img/research-bg.JPG"
 ### Our active research areas include:
 * Marine resource economics
 * Policy analysis and evaluation
-* Econometric
-* Bioeconomics
+* Econometrics
+* Bioeconomic modeling
 * Fisheries management at international, national, regional, and state levels
 * Climate change
 * Coastal community resilience
