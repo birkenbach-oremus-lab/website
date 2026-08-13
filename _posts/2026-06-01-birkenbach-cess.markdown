@@ -12,7 +12,7 @@ share-img: img/posts/2026-06-01-1.jpg
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-06-01-1.jpg" alt="Atlantic shark species table" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Source: https://asmfc.org/species/coastal-sharks/</figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">Source: ASMFC</figcaption>
       </figure>
  </div> 
 
