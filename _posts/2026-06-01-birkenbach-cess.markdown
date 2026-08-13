@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Delaware appoints Dr. Birkenbach to ASMFC CESS
+title:      DE appoints Dr. Birkenbach to ASMFC CESS
 author:     Birkenbach-Oremus Lab
 tags: 		posts
 subtitle:  	Horseshoe crabs and sharks get a new rep
