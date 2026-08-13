@@ -12,7 +12,7 @@ share-img: img/posts/2026-06-01-1.jpg
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-06-01-1.jpg" alt="Atlantic shark species table" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Source: Atlantic States Marine Fisheries Commission Review of the Interstate Fishery Management Plan for Coastal Sharks: 2024 Fishing Year.</figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">Source: asmfc.org</figcaption>
       </figure>
  </div> 
 
