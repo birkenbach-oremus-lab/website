@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Delaware appoints Dr. Birkenbach to the ASMFC CESS
+title:      Delaware appoints Dr. Birkenbach to ASMFC CESS
 author:     Birkenbach-Oremus Lab
-tags: 		  posts
+tags: 		posts
 subtitle:  	Horseshoe crabs and sharks get a new rep
 share-img: img/posts/2026-06-01-1.jpg
 ---
@@ -15,3 +15,5 @@ share-img: img/posts/2026-06-01-1.jpg
         <figcaption style="text-align: center; font-size: 12px;">Source: Atlantic States Marine Fisheries Commission Review of the Interstate Fishery Management Plan for Coastal Sharks: 2024 Fishing Year.</figcaption>
       </figure>
  </div> 
+
+Dr. Birkenbach's work on the CESS will complement her continuing service as a member of the New England Fishery Management Council (NEFMC)'s Scientific and Statistical Committee (SSC) and a co-founder of its new subpanel, the Social Science Subcommittee (SSS). The goals of the latter align closely with the mission of the CESS and build on growing momentum to better define the role of socioeconomic decision-making in resource management decisions.
