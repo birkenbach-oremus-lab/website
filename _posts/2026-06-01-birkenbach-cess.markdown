@@ -16,4 +16,4 @@ share-img: img/posts/2026-06-01-1.jpg
       </figure>
  </div> 
 
-Dr. Birkenbach's work on the CESS will complement her continuing service as a member of the New England Fishery Management Council (NEFMC)'s Scientific and Statistical Committee (SSC) and a co-founder of its new subpanel, the Social Science Subcommittee (SSS). The goals of the latter align closely with the mission of the CESS and build on growing momentum to better define the role of socioeconomic decision-making in resource management decisions.
+Dr. Birkenbach's work on the CESS will complement her continuing service as a member of the New England Fishery Management Council (NEFMC)'s Scientific and Statistical Committee (SSC) and a co-founder of its new subpanel, the Social Science Subcommittee (SSS). The goals of the latter align closely with the mission of the CESS and build on growing momentum to better define the role of socioeconomic considerations in resource management decisions.
