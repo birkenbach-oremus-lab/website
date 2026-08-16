@@ -3,7 +3,7 @@ layout:     post
 title:      DE appoints Dr. Birkenbach to ASMFC CESS
 author:     Birkenbach-Oremus Lab
 tags: 		posts
-subtitle:  	Horseshoe crabs and sharks get a new rep
+subtitle:  	Horseshoe crabs and sharks get a new representative
 share-img: img/posts/2026-06-01-1.jpg
 ---
 <!-- Start Writing Below in Markdown -->
