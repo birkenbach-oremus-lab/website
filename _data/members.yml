@@ -20,7 +20,7 @@
   role: Masters student in Marine Policy
   img: http://birkenbach-oremus-lab.github.io/website/img/erinnmemberphoto.jpg
   bio: Coming from a background in the biological sciences, Erinn gained research experience in mammal behavioral ecology through her undergradate studies, the Ronald E. McNair Scholars Program, and the NSF-Funded REU Program at Mystic Aquarium/UConn-Avery Point. Her work as a Graduate Scholars Award and Nancy M. Targett Scholarship recipient at UD combines her passions for marine biology, conservation, and environmental law.
-  visible: true
+  visible: false
 
 - name: Kent Wicker
   role: PhD candidate in Marine Policy
