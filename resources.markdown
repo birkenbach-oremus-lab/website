@@ -20,7 +20,7 @@ We ask that prospective graduate students first complete this [<span style="colo
 * [<span style="color:#337ab7">Link to apply</span>](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/)
 * [<span style="color:#337ab7">Cost of attendance (for unfunded positions)</span>](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
 * [<span style="color:#337ab7">Funding opportunities</span>](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
-* [<span style="color:#337ab7">Campus visits</span>](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit/virtual-visit/)
+* [<span style="color:#337ab7">Campus visits</span>](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit)
   
 
 ### Professional development:
