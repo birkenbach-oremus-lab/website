@@ -20,7 +20,7 @@ We ask that prospective graduate students first complete this [<span style="colo
 * [<span style="color:#337ab7">Link to apply</span>](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/)
 * [<span style="color:#337ab7">Campus visits</span>](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit)
 * [<span style="color:#337ab7">Cost of attendance (for unfunded positions)</span>](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
-* Funding opportunities for graduate students (if grant-funded positions are unavailable):
+* **Funding opportunities (if grant-funded positions are unavailable):**
   * [<span style="color:#337ab7">UD assistantships, fellowships, scholarships, and competitive awards</span>](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
   * [<span style="color:#337ab7">NSF Graduate Research Fellowship Program (NSF GRFP)</span>](https://www.nsf.gov/funding/initiatives/grfp)
   * [<span style="color:#337ab7">Other external funding opportunities (list maintained by UCLA)</span>](https://grad.ucla.edu/funding/#/)
