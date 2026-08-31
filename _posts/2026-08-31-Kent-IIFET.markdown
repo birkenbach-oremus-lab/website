@@ -62,5 +62,5 @@ thoughtful research and international collaboration in building resilient fisher
     <figure style="margin: 0;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-08-31-8.jpeg" alt="Gullfoss waterfalll" width="100%">
     </figure>
-    <figcaption style="grid-column: 1 / 3; text-align: center; font-size: 12px;">CClockwise from top left: Hallgrímskirkja church in Reykjavik; Kerid, a volcanic crater lake in southern Iceland; Thingvellir National Park, where the North Atlantic tectonic plate meets the Eurasian plate, and Gullfoss waterfall in northern Iceland. (K. Wicker)</figcaption>
+    <figcaption style="grid-column: 1 / 3; text-align: center; font-size: 12px;">Clockwise from top left: Hallgrímskirkja church in Reykjavik; Kerid, a volcanic crater lake in southern Iceland; Thingvellir National Park, where the North Atlantic tectonic plate meets the Eurasian plate, and Gullfoss waterfall in northern Iceland. (K. Wicker)</figcaption>
 </div>
