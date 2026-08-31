@@ -3,7 +3,7 @@ layout:     post
 title:      Of Fishes and Faroes
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
-subtitle:   Kent Wicker writes about his experience at IIFET 2026
+subtitle:   Kent Wicker represents the Lab at IIFET 2026
 share-img: img/posts/2026-08-31-2.jpg
 ---
 <!-- Start Writing Below in Markdown -->
