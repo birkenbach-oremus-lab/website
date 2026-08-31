@@ -34,10 +34,10 @@ After the conference, I engaged in a bit of sightseeing, including a hike to Mú
     <figure style="margin: 0;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-08-31-3.jpg" alt="sea cave" width="100%">
     </figure>
-    <figure style="grid-column: 2; margin: 0;">
+    <figure style="margin: 0;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-08-31-4.jpg" alt="Múlafossur waterfall" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Clockwise from top left: Svartifossur, a waterfall near Torshavn; sea stack near the island Vagar; sea cave near Gásadalur, and Múlafossur waterfall. (K. Wicker)</figcaption>
     </figure>
+    <figcaption style="grid-column: 1 / 3; text-align: center; font-size: 12px;">Clockwise from top left: Svartifossur, a waterfall near Torshavn; sea stack near the island Vagar; sea cave near Gásadalur, and Múlafossur waterfall. (K. Wicker)</figcaption>
 </div>
 
 My wife Karen then joined me in Iceland for a week of more sightseeing (more photos below) before returning home. A tour of Iceland is a geology lesson, since the country
@@ -49,4 +49,18 @@ Iceland, fishing has shaped the culture, economy, and landscape, while also insp
 and getting the opportunity to exchange ideas with fisheries scholars and practitioners from around the world, left me with renewed appreciation for the importance of
 thoughtful research and international collaboration in building resilient fisheries and coastal communities.
 
-
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 4px; max-width: 600px; margin: 0 auto;">
+    <figure style="margin: 0;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-08-31-5.jpeg" alt="Hallgrímskirkja church" width="100%">
+    </figure>
+    <figure style="margin: 0;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-08-31-6.jpeg" alt="Kerid" width="100%">
+    </figure>
+    <figure style="margin: 0;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-08-31-7.jpeg" alt="Thingvellir National Park" width="100%">
+    </figure>
+    <figure style="margin: 0;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-08-31-8.jpeg" alt="Gullfoss waterfalll" width="100%">
+    </figure>
+    <figcaption style="grid-column: 1 / 3; text-align: center; font-size: 12px;">CClockwise from top left: Hallgrímskirkja church in Reykjavik; Kerid, a volcanic crater lake in southern Iceland; Thingvellir National Park, where the North Atlantic tectonic plate meets the Eurasian plate, and Gullfoss waterfall in northern Iceland. (K. Wicker)</figcaption>
+</div>
