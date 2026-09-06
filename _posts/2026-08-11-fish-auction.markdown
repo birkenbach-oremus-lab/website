@@ -3,7 +3,7 @@ layout:     post
 title:      Trading plaices
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
-subtitle:   NEFMC-SSC members tour New Bedford fish auction
+subtitle:   Dr. Birkenbach visits New Bedford fish auction
 share-img: img/posts/2026-08-11-1.jpg
 ---
 <!-- Start Writing Below in Markdown -->
