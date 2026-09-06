@@ -9,7 +9,7 @@ share-img: img/posts/2026-08-11-1.jpg
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-08-11-2.jpg" alt="audience" width="100%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2026-08-11-2.jpg" alt="audience" width="90%">
         <figcaption style="text-align: center; font-size: 12px;">Fishing vessels at rest (Credit: A. Birkenbach)</figcaption>
     </figure>
     <figure style="margin: 0 2px;">
