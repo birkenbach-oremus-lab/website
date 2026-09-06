@@ -15,11 +15,11 @@ header-img: "img/research-bg.JPG"
 * Seafood markets and prices
 
 ### We've also advised student projects on:
-* Aquaculture
+* Oyster farming and other aquaculture
 * Small-scale fisheries
 * Fishery monitoring/enforcement
 * Resource valuation
-* Marine mammal strandings
+* Marine mammal conservation policies
 * ...and more
 
 ### Support:
